@@ -1,0 +1,7 @@
+org/example/CassandraWriterTwentyMillion.class
+org/example/CassandraWriterValidRows.class
+org/example/CassandraParallelReader.class
+org/example/CassandraQuery.class
+org/example/CassandraWriter.class
+org/example/CassandraBatchWriter.class
+org/example/CassandraAsyncWriter.class
